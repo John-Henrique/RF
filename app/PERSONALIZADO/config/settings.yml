@@ -1,0 +1,31 @@
+---
+Comment.date_time_format: M d, Y
+Comment.feed_limit: 10
+Comment.level: 1
+Hook.bootstraps: 
+Hook.components: 
+Hook.helpers: Tinymce.TinymceHook
+Hook.routes: 
+Meta.description: >
+    Botão para cálculo automático de frete, rastreamento de
+    pedidos via email, templates para anuncio no mercado livre
+Meta.generator: 'Croogo - Content Management System'
+Meta.keywords: >
+    botão de cálculo, frete, cálculo de frete, calculo frete,
+    rastreamento, geara, alfândega
+Meta.robots: index, follow
+Reading.date_time_format: D, M d Y H:i:s
+Reading.nodes_per_page: 5
+Service.akismet_key: your-key
+Service.akismet_url: http://your-blog.com
+Service.recaptcha_private_key: your-private-key
+Service.recaptcha_public_key: your-public-key
+Site.email: john@midianegocios.com.br
+Site.feed_url: 
+Site.locale: por
+Site.status: 1
+Site.tagline: Serviços de rastreamento de encomendas e cálculo de frete.
+Site.theme: rastreamento
+Site.timezone: 0
+Site.title: Rastreamento
+Writing.wysiwyg: 1
