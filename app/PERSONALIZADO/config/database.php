@@ -82,9 +82,9 @@ class DATABASE_CONFIG {
 		'driver' => 'mysql',
 		'persistent' => false,
 		'host' => 'localhost',
-		'login' => 'vibemidi_adm',
-		'password' => '25000130',
-		'database' => 'vibemidi_rastreado',
+		'login' => '',
+		'password' => '',
+		'database' => '',
 		'prefix' => '',
 		'encoding' => 'UTF8',
 	);
@@ -94,8 +94,8 @@ class DATABASE_CONFIG {
 		'datasource'   => 'imap',
 		'host' => 'imap.gmail.com',
 		'connect' => 'imap/notls',
-		'login' => 'johnhenrique@gmail.com',
-		'password' => 'carambajohn',
+		'login' => '@gmail.com',
+		'password' => '',
 		'mailbox' => 'INBOX',
 		'port' => '993'
 		//'port' => '143'
